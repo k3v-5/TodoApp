@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-const MoonIcon = ({ fill = "fff", ...props }) => {
+const MoonIcon = ({ fill = "#fff", ...props }) => {
     return (
         <svg
             {...props}
